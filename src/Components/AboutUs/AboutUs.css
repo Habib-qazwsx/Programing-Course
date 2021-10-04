@@ -1,0 +1,12 @@
+.aboutUs {
+  margin-left: 200px;
+  width: 800px;
+  color: rgb(112, 86, 86);
+  font-size: 20px;
+}
+.aboutUs h1 {
+  text-align: center;
+  color: rgb(129, 85, 31);
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
